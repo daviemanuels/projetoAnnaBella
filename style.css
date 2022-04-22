@@ -10,23 +10,30 @@ body {
 .menu {
     background-color: #c5c5b2;
     padding: 18px;
+    margin-left: -30px;
 }
 
 .menu a {
     padding: 18px;
     text-decoration: none;
+    font-weight: bold;
+    color: rgb(13, 47, 134);
 }
 
 .description {
-    background-color: white;
-    
+    background-color: #e8e8d9;
     padding: 10px;
 }
 
 .description h2 {
     margin-top: 5px;
+    color: #828271;
 }
 
 .description p {
     text-align: justify;
+}
+
+.rodape {
+    text-align: center;
 }
