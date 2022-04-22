@@ -37,3 +37,7 @@ body {
 .rodape {
     text-align: center;
 }
+
+.image img {
+    border: 8px solid #cecece;
+}
