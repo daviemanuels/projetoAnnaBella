@@ -16,3 +16,17 @@ body {
     padding: 18px;
     text-decoration: none;
 }
+
+.description {
+    background-color: white;
+    
+    padding: 10px;
+}
+
+.description h2 {
+    margin-top: 5px;
+}
+
+.description p {
+    text-align: justify;
+}
