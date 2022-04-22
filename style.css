@@ -1,3 +1,18 @@
 body {
     background-image: url('imagens/fundo.png');
 }
+
+#geral {
+    width: 900px;
+    
+}
+
+.menu {
+    background-color: #c5c5b2;
+    padding: 18px;
+}
+
+.menu a {
+    padding: 18px;
+    text-decoration: none;
+}
